@@ -6,9 +6,14 @@
 
 ## Статистика GitHub
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsndrovandrey1&theme=dark" alt="GitHub Cards"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsndrovandrey1&theme=dark" alt="GitHub Streak" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsndrovandrey1&theme=dark" alt="GitHub Cards"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsndrovandrey1&theme=dark" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsndrovandrey1&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
