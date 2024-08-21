@@ -72,7 +72,7 @@
 
 [CI/CD](https://github.com/alexsndrovandrey1/SimpleDocker) - Основы CI и CD.
 
-### SQL Project
+### SQL Projects
 
 [SQL bootcamp](https://github.com/alexsndrovandrey1/SimpleDocker) - 10 проектов по SQL.
 
