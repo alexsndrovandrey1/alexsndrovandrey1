@@ -74,7 +74,7 @@
 
 ### SQL Projects
 
-[SQL bootcamp](https://github.com/alexsndrovandrey1/SimpleDocker) - 10 проектов по SQL.
+[SQL bootcamp](https://github.com/alexsndrovandrey1/SQL) - 10 проектов по SQL.
 
 [SQL practice](https://github.com/alexsndrovandrey1/Orel_auto.git) - Задачи по SQL (автосервис).
 
