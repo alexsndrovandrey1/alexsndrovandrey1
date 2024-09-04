@@ -70,7 +70,7 @@
 
 [Simple Docker](https://github.com/alexsndrovandrey1/SimpleDocker) - Основы работы с Docker.
 
-[CI/CD](https://github.com/alexsndrovandrey1/SimpleDocker) - Основы CI и CD.
+[CI/CD](https://github.com/alexsndrovandrey1/CICD) - Основы CI и CD.
 
 ### SQL Projects
 
